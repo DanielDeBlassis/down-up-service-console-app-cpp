@@ -7,3 +7,5 @@ downUp.layout
 downUp.ico
 downUp.dev
 bin/downUp_private.res
+bin/main.o
+bin/funciones.o
