@@ -1,0 +1,9 @@
+
+*.svg
+Makefile.win
+downUp_private.rc
+downUp_private.h
+downUp.layout
+downUp.ico
+downUp.dev
+bin/downUp_private.res
